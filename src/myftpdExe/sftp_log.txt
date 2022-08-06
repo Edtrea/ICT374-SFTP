@@ -1,0 +1,12 @@
+Fri Jul 29 09:43:42 2022
+  Opcode for pwd received
+Fri Jul 29 09:43:42 2022
+  PWD start
+Fri Jul 29 09:43:42 2022
+  PWD completed
+Fri Jul 29 10:00:23 2022
+  Opcode for dir received
+Fri Jul 29 10:00:23 2022
+  DIR start
+Fri Jul 29 10:00:23 2022
+  DIR completed
